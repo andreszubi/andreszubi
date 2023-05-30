@@ -10,7 +10,7 @@
 
 <br>
 
-- 📓 I am currently learning Typescript Next.js and React Native
+- 📓 I am currently learning Typescript, Next.js and React Native
 - 🏠 I live in Miami,Florida
 - 💬 I speak English, Spanish, Italian and French.
 
