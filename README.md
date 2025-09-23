@@ -24,6 +24,7 @@
 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 
 
 - **Front-End Development**
