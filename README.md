@@ -28,10 +28,11 @@
 - **Languages**
 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
 
 - **Front-End Development**
 
@@ -69,6 +70,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
     <img alt="Cursor" src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white"/>
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"/>
+    <img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
 
