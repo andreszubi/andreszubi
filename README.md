@@ -10,7 +10,6 @@
 
 <br>
 
-- 📓 I am currently learning Java, Typescript, Next.js, and React Native
 - 🏠 I live in Miami, Florida
 - 💬 I speak English, Spanish, Italian, and French.
 
@@ -47,14 +46,17 @@
    
    
 - **Back-End Development**
-
+  
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+  
 
 - **Deployment**
 
@@ -73,10 +75,20 @@
     <img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+    <img alt="Codepen" src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" />
+    <img alt="Replit" src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff" />
+    
+
+
+- **🎨 Design**
+  
+   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" />
+   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
 - **Collaboration Tools**
   
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)"/>
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)"/>
