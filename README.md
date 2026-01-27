@@ -1,5 +1,4 @@
-# andreszubi
-<h1 align="center"><b>Hello, I'm Andres! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Andres Zubizarreta! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=30&duration=3000&pause=1000&color=F28963&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+am+a+Full+Stack+Developer;I+like++coding+and+creating+cool+apps" alt="Typing SVG" /></a>
@@ -10,12 +9,13 @@
 
 <br>
 
-- 🏠 I live in Miami, Florida
-- 💬 I speak English, Spanish, Italian, and French.
+Hello! My name is **Andres Zubizarreta**, and I am a **Full Stack Software Engineer** with a major in **Computer Science**. I am passionate about building well-structured, scalable, and user-friendly applications, and I love creating solutions that make a real impact.
 
+- 🏠 I currently live in **Miami, Florida**.
+- 💬 I speak **English, Spanish, Italian, and French**.
+- 🌎 I enjoy solving complex programming challenges and continuously learning new technologies to further enhance my skills.
 
 <br>
-
 
 ## <img src = "https://res.cloudinary.com/dm6a8aocc/image/upload/v1676403603/ezgif-2-4517bbae6d_uhkjjq.gif" width = 50px> Skills
 
@@ -43,8 +43,6 @@
    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
 
-   
-   
 - **Back-End Development**
   
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
@@ -78,8 +76,6 @@
     <img alt="Codepen" src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" />
     <img alt="Replit" src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff" />
     
-
-
 - **🎨 Design**
   
    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" />
@@ -92,3 +88,99 @@
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)"/>
+
+##  <img src="https://i.imgur.com/BG39gvs.png" />  Portfolio
+
+Here are some of my notable projects that showcase my skills and expertise. Feel free to explore the live versions or check out the source code on GitHub!
+---
+
+### 🌸🍜 [Chihiro's Journey](https://andreszubi.github.io/Chihiros-Journey/)  
+**[GitHub Repository](https://github.com/andreszubi/Chihiros-Journey)**  
+
+A website inspired by Studio Ghibli’s *Spirited Away*. Focused on creative storytelling and animations, with an emphasis on creating seamless user experiences and optimizing performance.
+
+🔹 **Key Features**  
+   - Stunning decorative animations and creative **CSS** design inspired by the film’s themes.  
+   - User interaction and transitions implemented with **JavaScript** for an engaging user interface.  
+   - Adopted a **mobile-first approach** for optimal performance and responsiveness.  
+
+🔹 **Key Technologies & Composition**  
+  - ![CSS](https://img.shields.io/badge/CSS-55.5%25-%231572B6?logo=css3&logoColor=white)  
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-41.1%25-%23F7DF1E?logo=javascript&logoColor=black)  
+  - ![HTML](https://img.shields.io/badge/HTML-3.4%25-%23E34F26?logo=html5&logoColor=white)  
+
+---
+
+### 🌟🦸🏻‍♂️ [Super Hero For Hire](https://super-hero-for-hire-225682ec7364.herokuapp.com/)  
+**[GitHub Repository](https://github.com/andreszubi/Super-HeroForHire)**  
+
+A dynamic and interactive platform where users can hire superheroes to solve real-world problems. This web app emphasizes server-side rendering, modern design principles, and smooth interactivity.  
+
+🔹 **Key Features**  
+   - Built with **EJS** for server-side rendering of dynamic content.  
+   - Responsive and visually engaging user interface designed with **CSS**.  
+   - Added dynamic interactivity using **JavaScript**.  
+   - Used **Express.js** to manage routing and server logic.  
+   - Followed **REST API principles** in backend development.
+
+🔹 **Key Technologies & Composition**  
+  - ![EJS](https://img.shields.io/badge/EJS-45.6%25-%23189bcb?logo=ejs&logoColor=black)  
+  - ![CSS](https://img.shields.io/badge/CSS-41%25-%231572B6?logo=css3&logoColor=white)  
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-13.4%25-%23F7DF1E?logo=javascript&logoColor=black)  
+
+---
+
+### 🙋🏡 [Help a Refugee - React Frontend](https://host-a-refugee.netlify.app/)  
+**[GitHub Repository](https://github.com/andreszubi/help-a-refugee-react)**  
+
+A modern React.js-based application designed to connect refugees with opportunities and resources for resettlement. Built with a focus on component-based architecture and state management.
+
+🔹 **Key Features**  
+   - Created responsive user interfaces with **React.js** and **CSS Modules**.  
+   - Leveraged **React Hooks** for functional components and state management.  
+   - Followed **BEM CSS methodology** for styling clean, maintainable CSS.  
+   - Optimized performance with **lazy loading** and **conditional rendering**.  
+
+🔹 **Key Technologies & Composition**  
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-89.2%25-%23F7DF1E?logo=javascript&logoColor=black)  
+  - ![CSS](https://img.shields.io/badge/CSS-10.3%25-%231572B6?logo=css3&logoColor=white)  
+  - ![HTML](https://img.shields.io/badge/HTML-0.5%25-%23E34F26?logo=html5&logoColor=white)  
+
+---
+
+### 🙋🏡 [Help a Refugee - Backend API](https://github.com/B4n3l1ng/help-a-refugee-backend)  
+**[GitHub Repository](https://github.com/B4n3l1ng/help-a-refugee-backend)**  
+
+The powerful backend API for the "Help a Refugee" project, designed to be scalable, efficient, and secure using modern RESTful development patterns.
+
+🔹 **Key Features**  
+   - Developed a RESTful API with **Node.js** and **Express.js** for handling user authentication and resettlement data.  
+   - Secured API endpoints and implemented robust data validation.  
+   - Used **MongoDB** for efficient NoSQL data storage.  
+   - Extensively tested API endpoints with **Postman** to ensure security and optimization.  
+
+🔹 **Key Technologies & Composition**  
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-%23F7DF1E?logo=javascript&logoColor=black)  
+  - **Frameworks**: Express.js, Node.js  
+  - **Database**: MongoDB  
+  - **Tools**: Postman, MongoDB Compass  
+
+---
+
+- ## 📜 Certifications
+- **[Python Coding Specialist](https://platform.knowledge-pillars.com/c/6939ad49c1b89bffcac53cf8)**
+- **[Full Stack Web Development](https://www.credential.net/29873180-012e-4cbf-a919-531a2e18c125#acc.nNMLdbOC)**
+
+
+- ## 🎯 Hobbies & Interests
+
+- 🎨 **Creative Pursuits**: I enjoy drawing, painting, and designing graphics.  
+- 📚 **Reading**: I love exploring books on technology, psychology, and personal development.  
+- 🧘 **Health & Wellness**: Yoga, hiking, and staying active to maintain a balanced lifestyle.  
+- 🌍 **Traveling**: Experiencing new cultures, languages, and cuisines during my free time.  
+- 🎮 **Gaming**: I enjoy playing and analyzing video games to learn more about storytelling and user experiences.  
+- 🎥 **TV Series & Movies**: Movies and binge-watching exciting TV shows across various genres.
+
+  ## 📫 Let's Connect!
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/andres-zubizarreta/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:andresspagna17@gmail.com)    
