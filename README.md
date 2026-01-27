@@ -167,12 +167,13 @@ The powerful backend API for the "Help a Refugee" project, designed to be scalab
 
 ---
 
-- ## 📜 Certifications
+  ## <img alt="Certificate Icon" src="https://i.imgur.com/XFbs5NO.png" /> Certifications
 - **[Python Coding Specialist](https://platform.knowledge-pillars.com/c/6939ad49c1b89bffcac53cf8)**
 - **[Full Stack Web Development](https://www.credential.net/29873180-012e-4cbf-a919-531a2e18c125#acc.nNMLdbOC)**
 
+---
 
-- ## 🎯 Hobbies & Interests
+  ## <img alt="Person with hobbies icon" src="https://i.imgur.com/mgnoeGh.png" /> Hobbies & Interests
 
 - 🎨 **Creative Pursuits**: I enjoy drawing, painting, and designing graphics.  
 - 📚 **Reading**: I love exploring books on technology, psychology, and personal development.  
@@ -180,6 +181,8 @@ The powerful backend API for the "Help a Refugee" project, designed to be scalab
 - 🌍 **Traveling**: Experiencing new cultures, languages, and cuisines during my free time.  
 - 🎮 **Gaming**: I enjoy playing and analyzing video games to learn more about storytelling and user experiences.  
 - 🎥 **TV Series & Movies**: Movies and binge-watching exciting TV shows across various genres.
+
+---
 
   ## 📫 Let's Connect!
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/andres-zubizarreta/)
