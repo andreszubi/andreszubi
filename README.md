@@ -110,6 +110,27 @@ A website inspired by Studio Ghibli’s *Spirited Away*. Focused on creative sto
   - ![HTML](https://img.shields.io/badge/HTML-3.4%25-%23E34F26?logo=html5&logoColor=white)  
 
 ---
+### 🎓🌐 [Google Developers Group on Campus MDC - Front-End](gdg-on-campus-mdc.netlify.app)
+**[GitHub Repository](https://github.com/Google-Developer-Group-MDC/Google-Developers-Group-on-Campus-MDC-Front-End)**
+
+The official website for the Google Developer Group (GDG) on Campus at Miami Dade College. This modern and responsive site showcases the group's mission, events, and opportunities, providing students with valuable workshops, career support, and resources for professional growth.
+
+🔹 **Key Features**
+
+- Engaging landing page experience with interactive animations and bespoke visuals inspired by Google Developer branding.
+- Dedicated pages for Becoming a Member and Partnering with the community for collaborations and sign-ups.
+- Features like testimonials, community statistics, and highlights of the group’s four core pillars (Tech Workshops, Career Development, Community, and Real-World Projects).
+- Developed with SEO optimizations and metadata tagging for enhanced online visibility.
+
+🔹 **Technologies Used**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-94.6%25-%23F7DF1E?logo=javascript&logoColor=black)
+- ![CSS](https://img.shields.io/badge/CSS-5.4%25-%231572B6?logo=css3&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-%23000000?logo=next.js&logoColor=white) (16): Framework with App Router for fresh, efficient rendering.
+- ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white) (19): UI library to create a seamless and dynamic front-end experience.
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) (4): Utility-first CSS framework for responsive styling.
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white): Deployed for an efficient and high-performance live experience.
+
+---
 
 ### 🌟🦸🏻‍♂️ [Super Hero For Hire](https://super-hero-for-hire-225682ec7364.herokuapp.com/)  
 **[GitHub Repository](https://github.com/andreszubi/Super-HeroForHire)**  
