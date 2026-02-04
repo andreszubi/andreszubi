@@ -110,7 +110,7 @@ A website inspired by Studio Ghibli’s *Spirited Away*. Focused on creative sto
   - ![HTML](https://img.shields.io/badge/HTML-3.4%25-%23E34F26?logo=html5&logoColor=white)  
 
 ---
-### 🎓🌐 [Google Developers Group on Campus MDC - Front-End](gdg-on-campus-mdc.netlify.app)
+### 🎓🌐 [Google Developers Group on Campus MDC - Front-End](https://gdg-on-campus-mdc.netlify.app)
 **[GitHub Repository](https://github.com/Google-Developer-Group-MDC/Google-Developers-Group-on-Campus-MDC-Front-End)**
 
 The official website for the Google Developer Group (GDG) on Campus at Miami Dade College. This modern and responsive site showcases the group's mission, events, and opportunities, providing students with valuable workshops, career support, and resources for professional growth.
