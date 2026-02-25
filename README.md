@@ -189,6 +189,7 @@ The powerful backend API for the "Help a Refugee" project, designed to be scalab
 ---
 
   ## <img alt="Certificate Icon" src="https://i.imgur.com/XFbs5NO.png" /> Certifications
+- **[App Development with Swift Associate](https://credly.com/badges/ce2cfcbc-25c4-4191-89cd-044b96933ffa/public_url)**
 - **[Python Coding Specialist](https://platform.knowledge-pillars.com/c/6939ad49c1b89bffcac53cf8)**
 - **[Full Stack Web Development](https://www.credential.net/29873180-012e-4cbf-a919-531a2e18c125#acc.nNMLdbOC)**
 
