@@ -9,7 +9,7 @@
 
 <br>
 
-Hello! My name is **Andres Zubizarreta**, and I am a **Full Stack Software Engineer** with a major in **Computer Science**. I am passionate about building well-structured, scalable, and user-friendly applications, and I love creating solutions that make a real impact.
+Hello! My name is **Andres Zubizarreta**, and I am a **Full Stack Software Engineer** currently pursuing a Bachelor's in **Computer Science** at Florida International University. I am passionate about building well-structured, scalable, and user-friendly applications, and I love creating solutions that make a real impact.
 
 - 🏠 I currently live in **Miami, Florida**.
 - 💬 I speak **English, Spanish, Italian, and French**.
