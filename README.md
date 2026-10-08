@@ -132,6 +132,27 @@ The official website for the Google Developer Group (GDG) on Campus at Miami Dad
 
 ---
 
+### 🛠️🗂️ [Google Developers Group on Campus MDC - Back-End](https://github.com/Google-Developer-Group-MDC/Google-Developers-Group-on-Campus-MDC-Back-End)
+**[GitHub Repository](https://github.com/Google-Developer-Group-MDC/Google-Developers-Group-on-Campus-MDC-Back-End)**
+
+The backend REST API that powers the Google Developer Group on Campus at Miami Dade College website, built to support reliable data access and core platform functionality.
+
+🔹 **Key Features**
+
+- Built with **Express.js** to provide structured REST API endpoints for the GDG on Campus MDC web platform.
+- Supports core backend workflows such as authentication and data handling for website content and operations.
+- Implements validation and security-minded request handling patterns for safer API interactions.
+- Integrates with **MongoDB** for scalable, document-based data storage.
+
+🔹 **Key Technologies & Composition**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-%23F7DF1E?logo=javascript&logoColor=black)
+- ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
 ### 🌟🦸🏻‍♂️ [Super Hero For Hire](https://super-hero-for-hire-225682ec7364.herokuapp.com/)  
 **[GitHub Repository](https://github.com/andreszubi/Super-HeroForHire)**  
 
