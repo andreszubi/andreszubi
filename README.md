@@ -210,6 +210,11 @@ The powerful backend API for the "Help a Refugee" project, designed to be scalab
 ---
 
   ## <img alt="Certificate Icon" src="https://i.imgur.com/XFbs5NO.png" /> Certifications
+- **[Certificate of completion: Claude 101 — Anthropic (Issued: July 2026)](https://verify.skilljar.com/c/arps5za74a9s)**
+- **[Certificate of Completion: AI Fluency Framework & Foundations — Anthropic (Issued: July 2026)](https://verify.skilljar.com/c/4t9jns3d4f59)**
+- **[EPIC Accomplishment: Employer Challenge Completion — U.S. Chamber of Commerce Foundation - EPIC (Issued: June 2026)](https://www.credly.com/badges/6755a9b9-95db-4a3c-992e-8f88a30211c8/linked_in_profile)**
+- **[MCM - AI-Ready Data Governance: SharePoint Restructure and Automated File Naming — Riipen (Issued: June 2026)](https://app.riipen.com/teams/3LWgbvML/certificates/7zX64xgV)**
+- **[App Development with Swift Certified User — Apple (Issued: April 2026; Expires: April 2031)](https://www.credly.com/badges/35f6e862-0583-43c0-a38a-0e62dc61788b/linked_in_profile)**
 - **[App Development with Swift Associate](https://credly.com/badges/ce2cfcbc-25c4-4191-89cd-044b96933ffa/public_url)**
 - **[Python Coding Specialist](https://platform.knowledge-pillars.com/c/6939ad49c1b89bffcac53cf8)**
 - **[Full Stack Web Development](https://www.credential.net/29873180-012e-4cbf-a919-531a2e18c125#acc.nNMLdbOC)**
