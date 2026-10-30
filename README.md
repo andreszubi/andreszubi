@@ -32,6 +32,8 @@ Hello! My name is **Andres Zubizarreta**, and I am a **Full Stack Software Engin
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
     <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+    <img alt="BoxLang" src="https://img.shields.io/badge/BoxLang-00DBFF?style=flat"/>
 
 - **Front-End Development**
 
@@ -92,6 +94,28 @@ Hello! My name is **Andres Zubizarreta**, and I am a **Full Stack Software Engin
 ##  <img src="https://i.imgur.com/BG39gvs.png" />  Portfolio
 
 Here are some of my notable projects that showcase my skills and expertise. Feel free to explore the live versions or check out the source code on GitHub!
+---
+
+### 🌿📱 [Vitala — Healthy Living iOS App](https://appetize.io/app/b_cvskuwfinwn5sb6wt2okkj3gja)
+**[GitHub Repository](https://github.com/andreszubi/Vitala)** · **[▶ Try the Live Demo](https://appetize.io/app/b_cvskuwfinwn5sb6wt2okkj3gja)**
+
+A calm, privacy-first iPhone companion for movement, food, water, sleep, mindful breathing, and journaling. No account and no servers: everything stays on the device, with optional Apple Health sync. The live demo runs the app right in your browser, no install needed.
+
+🔹 **Key Features**
+   - Built natively with **Swift** and **SwiftUI**, featuring Apple's **Liquid Glass** design on iOS 26+ with a material fallback on iOS 17–25.
+   - **Nutrition** tracking with **USDA FoodData Central** food search, **VisionKit** barcode scanning (with Open Food Facts lookup), and a calorie target calculated from the user's profile.
+   - Nine guided **breathing sessions** with ambient sound synthesized live using **AVAudioEngine**, animated scenes drawn with SwiftUI **Canvas**, and **Core Haptics** that follow each breath.
+   - Two-way **Apple Health (HealthKit)** sync for workouts, water, sleep, and mindful minutes, with edits and deletes kept in sync and no duplicates.
+   - **Local-first, secure storage** using atomic writes and iOS Data Protection, plus JSON export and one-tap data erase.
+   - **Accessibility first**: WCAG AA color contrast enforced by tests, Dynamic Type, VoiceOver support, Reduce Motion, and Xcode accessibility audits on every main screen.
+
+🔹 **Key Technologies & Composition**
+  - ![Swift](https://img.shields.io/badge/Swift-100%25-%23F05138?logo=swift&logoColor=white)
+  - ![SwiftUI](https://img.shields.io/badge/SwiftUI-%230D96F6?logo=swift&logoColor=white)
+  - ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?logo=xcode&logoColor=white)
+  - **Apple Frameworks**: HealthKit, VisionKit, AVAudioEngine, Core Haptics
+  - **Testing**: Swift Testing, XCTest UI tests with accessibility audits
+
 ---
 
 ### 🌸🍜 [Chihiro's Journey](https://andreszubi.github.io/Chihiros-Journey/)  
@@ -206,6 +230,33 @@ The powerful backend API for the "Help a Refugee" project, designed to be scalab
   - **Frameworks**: Express.js, Node.js  
   - **Database**: MongoDB  
   - **Tools**: Postman, MongoDB Compass  
+
+---
+
+## 🤝 Open Source Contributions
+
+### 🦀📦 [MatchBox — Ortus Solutions](https://github.com/ortus-boxlang/matchbox)
+**Team Lead** · Four-person FIU student team with Sergio Zubizarreta, Carmen Cura, and Jorge Salazar
+
+MatchBox is Ortus Solutions' Rust-powered BoxLang runtime that compiles and runs BoxLang apps as native executables, WebAssembly, serverless functions, and embedded systems, with no JVM required. Our team took on three open issues, porting behavior from the BoxLang JVM into the Rust codebase and shipping tests and documentation with each one.
+
+🔹 **Contributions**
+   - ✅ **[encodeForHTML() with htmlEditFormat() alias](https://github.com/ortus-boxlang/matchbox/pull/61)** · *Merged* · closes [#51](https://github.com/ortus-boxlang/matchbox/issues/51)  
+     A native Rust built-in function that ports the BoxLang JVM's HTML encoder, backed by 33 script checks, 6 Rust unit tests, an end-to-end template test, and a new docs page.
+   - 🔄 **[ETag and 304 Not Modified for static assets](https://github.com/ortus-boxlang/matchbox/pull/147)** · *In review* · closes [#52](https://github.com/ortus-boxlang/matchbox/issues/52)  
+     Content-derived SHA-256 ETags with RFC 9110 `If-None-Match` handling, so browsers reuse cached files instead of downloading them again. Adds 15 new tests.
+   - 🔄 **[ColdFusion (CFML) parsing module](https://github.com/ortus-boxlang/matchbox/pull/148)** · *In review* · closes [#45](https://github.com/ortus-boxlang/matchbox/issues/45)  
+     Lets MatchBox run `.cfm`, `.cfc`, and `.cfs` files by parsing ColdFusion into the existing BoxLang syntax tree, plus a CF-to-BoxLang rename pass ported from BoxLang. Adds 34 new tests with no regressions.
+
+🔹 **My Role**
+   - Led the team: broke each issue into tasks, assigned the work, and wrote the task documentation.
+   - Ran weekly **Scrum** meetings and coordinated with the Ortus maintainers on Slack.
+   - Wrote **Rust** code, tests, and docs, and opened all three pull requests.
+
+🔹 **Key Technologies & Practices**
+  - ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+  - ![BoxLang](https://img.shields.io/badge/BoxLang-00DBFF)
+  - **Workflow**: Fork-and-pull-request, maintainer code review, Cargo test suites, Clippy
 
 ---
 
