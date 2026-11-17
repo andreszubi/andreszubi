@@ -52,6 +52,7 @@ Hello! My name is **Andres Zubizarreta**, and I am a **Full Stack Software Engin
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg? style=flat&logo=django&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
